@@ -12,4 +12,4 @@ To help Abigail in her search we will need to access following data:
   - the high schools venues of the Localities
   - the universities venues of the Localities  
 
-We will then leverage the data in order to determine which locality is the most appropriate in order to locate the new restaurant. 
+We will then leverage the data in order to determine which locality is the most appropriate in order to locate the new fast food restaurant. 
